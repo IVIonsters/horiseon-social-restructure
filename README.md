@@ -21,7 +21,7 @@
 
 ## Features
 
-* Fill in post challenge
+* **Title:** Page title added to show company brand and help identify site purpose with minimal engagment necessary.
 * Fill in post challenge
 * Fill in post challenge
 * Fill in post challenge
@@ -30,7 +30,7 @@
 
 * Note current code refactoring does not alter appearance of site,  rather, makes the documents more readible and structured.
 
-* [Horiseon Social](https://ivionsters.github.io/horiseon-social-restructure/)
+    * [Horiseon Social](https://ivionsters.github.io/horiseon-social-restructure/)
 
     *ADD FINAL PNG HERE AFTER COMPLETETION
 
@@ -39,8 +39,8 @@
 
 ## Credits
 
-    N/A
+ N/A
 
 ## License
 
-    Please refer to the LICENSE in the repo.
+Please refer to the LICENSE in the repo.
