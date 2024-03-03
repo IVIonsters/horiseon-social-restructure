@@ -22,8 +22,8 @@
 ## Features
 
 * **Title:** Page title added to show company brand and help identify site purpose with minimal engagment necessary.
-* Fill in post challenge
-* Fill in post challenge
+* **HTML Structure:** Refactored with class specific semantic elements to improve overall identification and readability
+* **Accessibility:** Added Alt attributes to <img> tags for accessibilty
 * Fill in post challenge
 
 ## Usage
