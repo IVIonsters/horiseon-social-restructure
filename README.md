@@ -29,11 +29,11 @@
 
 ## Usage
 
-* Note current code refactoring does not alter appearance of site,  rather, makes the documents more readible and structured.
+* Note current code refactoring does not alter appearance of site,  rather, makes the documents more readible and structured. Website not structured for mobile devices currently.
 
     * [Horiseon Social](https://ivionsters.github.io/horiseon-social-restructure/)
 
-    *ADD FINAL PNG HERE AFTER COMPLETETION
+    * [Horiseon Final](assets/screenshots/finalpng.png)
 
     
     
