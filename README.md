@@ -33,7 +33,7 @@
 
     * [Horiseon Social](https://ivionsters.github.io/horiseon-social-restructure/)
 
-    * [Horiseon Final](assets/screenshots/finalpng.png)
+    * ![alttext](/assets/screenshot/finalpng.png)
 
     
     
