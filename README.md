@@ -31,7 +31,9 @@
 
 * Note current code refactoring does not alter appearance of site,  rather, makes the documents more readible and structured. Website not structured for mobile devices currently.
 
-    * [Horiseon Social](https://ivionsters.github.io/horiseon-social-restructure/)
+    * [Horiseon Social Live](https://ivionsters.github.io/horiseon-social-restructure/)
+
+    * [Horiseon Social Github Repo](https://github.com/IVIonsters/horiseon-social-restructure)
 
     * ![alttext](/assets/screenshot/finalpng.png)
 
